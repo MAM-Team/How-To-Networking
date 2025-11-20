@@ -121,5 +121,6 @@ This series will cover:
 - Connection and lobby flow  
 
 By the end, you will understand both the theory and the implementation of low-level multiplayer.
+
 **02 – Creating a Client/Server Setup With Unity Transport**  
 We will initialize the NetworkDriver and open a UDP connection between the client and server.

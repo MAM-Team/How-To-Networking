@@ -120,6 +120,8 @@ This series will cover:
 - Measuring ping and simple reliability  
 - Connection and lobby flow  
 
+\02
+
 By the end, you will understand both the theory and the implementation of low-level multiplayer.
 
 **02 – Creating a Client/Server Setup With Unity Transport**  
